@@ -1,0 +1,206 @@
+/* color1 : #e0e6c5 */
+@font-face {
+    font-family: Coffee_Bear;
+    src: url(../fonts/Coffee_Bear.ttf);
+}
+
+@font-face {
+    font-family: Neo_Sans_Std_Light;
+    src: url(../fonts/Neo_Sans_Std_Light.otf);
+}
+@font-face {
+    font-family: Neo_Sans_Std_Regular;
+    src: url(../fonts/Neo_Sans_Std_Regular.otf);
+}@font-face {
+    
+    font-family: Neo_Sans_Std_Bold;
+    src: url(../fonts/Neo_Sans_Std_Bold.otf);
+
+
+  }
+
+body{
+    margin:0;
+    padding: 0;
+    background-color: #c5d4e6;
+    
+    font-family: Neo_Sans_Std_regular;
+    
+    
+}
+
+.navbar .navbar-brand{
+    font-family: Coffee_Bear;
+    font-size: 45px;
+    text-transform: uppercase;
+}
+
+.navbar .navbar-brand span{
+    color: #93afbf;
+}
+.collapse ul{
+    font-family: Neo_Sans_Std_Regular;
+    font-size: 18px;
+    text-transform: uppercase;
+    
+}
+
+.header{
+padding-top: 20px;
+}
+
+.header h2{
+    font-family: Neo_Sans_Std_bold;
+    font-size: 45px;
+    text-transform: uppercase;
+}
+ 
+.header h3{
+    font-family: Neo_Sans_Std_light;
+    font-size: 45px;
+    text-transform: uppercase;
+}
+ 
+.content{
+    padding-top: 50px;
+}
+.content .first_line{
+    font-family: Coffee_Bear;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+
+.content .second_line{
+    font-family: Neo_Sans_Std_Regular;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+.content .thired_line{
+    font-family: Neo_Sans_Std_light;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+.content .fourth_line{
+    font-family: Neo_Sans_Std_bold;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+.content .mybtn{
+    font-family: Neo_Sans_Std_light;
+    background-color:#93afbf;
+    border-color:#93afbf;
+    border-radius: 20px;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 30px;
+}
+
+.content .image{
+    margin: auto;
+    width: 50%;
+  
+  
+}
+
+
+
+ .mybtn{
+    font-family: Neo_Sans_Std_light;
+    background-color:#93afbf;
+    border-color:#93afbf;
+    border-radius: 20px;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 30px;
+}
+
+.mybtn:hover {
+    font-family: Neo_Sans_Std_light;
+    background-color:#487c9a;
+    border-color:#487c9a;
+    border-radius: 20px;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 30px;
+}
+
+
+.main h2{
+    
+    font-family: Neo_Sans_Std_bold;
+    font-size: 38px;
+    text-transform: uppercase;
+
+}
+
+.main label{
+    font-family: Neo_Sans_Std_regular;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+.main input{
+    font-family: Neo_Sans_Std_light;
+    
+}
+
+.main .reg_img{
+    background-color:black;
+    background-image: url(../img/index/3.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+.main .log_img{
+    background-color:black;
+    background-image: url(../img/index/4.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.small{
+    font-family: Neo_Sans_Std_regular;
+    text-decoration: none;
+}
+
+p{
+    font-family: Neo_Sans_Std_light;
+}
+
+.dashboard{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+.main .feedback_img{
+    background-color:black;
+    background-image: url(../img/index/6.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.main .about_us_h2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.main .about_us_h5 {
+    margin-left:20px;
+    line-height: 40px;
+}
+
+.main .about_img{
+    background-color:black;
+    background-image: url(../img/index/7.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.main .new_x_ray_img{
+    background-color:black;
+    background-image: url(../img/index/8.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
